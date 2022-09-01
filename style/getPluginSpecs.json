@@ -1,0 +1,1 @@
+{"result":[{"name":"coreservices","functions":["getConfig","setConfig","getWeb3ApiToken","track","getOrganization","setOrganization","getEventSyncs","addEventSync","removeEventSync","listEventSyncStatus","getAddressSyncs","addAddressSync","removeAddressSync","listAddressSyncStatus","getProviders","setChains","getChains"]}]}
